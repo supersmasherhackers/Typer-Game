@@ -1,6 +1,4 @@
 # Typer-Game
-Well then...
-# Typer-Game
 Typing Tester
 
 Username/pw login
